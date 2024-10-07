@@ -1,0 +1,9 @@
+Library/
+Temp/
+*.sln
+*.suo
+*.userprefs
+*.csproj
+*.unityproj
+*.dll
+obj/
